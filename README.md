@@ -1,192 +1,25 @@
-Contribution: 2018-04-17 10:00
+Swift Mailer
+------------
 
-Contribution: 2018-04-17 10:01
+**Swiftmailer will stop being maintained at the end of November 2021.**
 
-Contribution: 2018-04-17 10:02
+Please, move to [Symfony Mailer](https://symfony.com/doc/current/mailer.html) at your earliest convenience.
+[Symfony Mailer](https://symfony.com/doc/current/mailer.html) is the next evolution of Swiftmailer.
+It provides the same features with support for modern PHP code and support for third-party providers.
 
-Contribution: 2018-04-17 10:03
+Swift Mailer is a component based mailing solution for PHP.
+It is released under the MIT license.
 
-Contribution: 2018-04-17 10:04
+Swift Mailer is highly object-oriented by design and lends itself
+to use in complex web application with a great deal of flexibility.
 
-Contribution: 2018-04-17 10:05
+For full details on usage, read the [documentation](https://swiftmailer.symfony.com/docs/introduction.html).
 
-Contribution: 2018-04-17 10:06
+Sponsors
+--------
 
-Contribution: 2018-04-24 10:00
-
-Contribution: 2018-04-24 10:01
-
-Contribution: 2018-04-24 10:02
-
-Contribution: 2018-04-24 10:03
-
-Contribution: 2018-04-24 10:04
-
-Contribution: 2018-04-24 10:05
-
-Contribution: 2018-04-26 10:00
-
-Contribution: 2018-04-26 10:01
-
-Contribution: 2018-04-26 10:02
-
-Contribution: 2018-04-26 10:03
-
-Contribution: 2018-04-26 10:04
-
-Contribution: 2018-04-26 10:05
-
-Contribution: 2018-04-26 10:06
-
-Contribution: 2018-04-26 10:07
-
-Contribution: 2018-04-30 10:00
-
-Contribution: 2018-04-30 10:01
-
-Contribution: 2018-04-30 10:02
-
-Contribution: 2018-04-30 10:03
-
-Contribution: 2018-04-30 10:04
-
-Contribution: 2018-04-30 10:05
-
-Contribution: 2018-04-30 10:06
-
-Contribution: 2018-04-30 10:07
-
-Contribution: 2018-04-30 10:08
-
-Contribution: 2018-04-30 10:09
-
-Contribution: 2018-04-30 10:10
-
-Contribution: 2018-05-01 10:00
-
-Contribution: 2018-05-01 10:01
-
-Contribution: 2018-05-01 10:02
-
-Contribution: 2018-05-01 10:03
-
-Contribution: 2018-05-01 10:04
-
-Contribution: 2018-05-02 10:00
-
-Contribution: 2018-05-02 10:01
-
-Contribution: 2018-05-02 10:02
-
-Contribution: 2018-05-02 10:03
-
-Contribution: 2018-05-02 10:04
-
-Contribution: 2018-05-02 10:05
-
-Contribution: 2018-05-02 10:06
-
-Contribution: 2018-05-02 10:07
-
-Contribution: 2018-05-02 10:08
-
-Contribution: 2018-05-10 10:00
-
-Contribution: 2018-05-10 10:01
-
-Contribution: 2018-05-17 10:00
-
-Contribution: 2018-05-17 10:01
-
-Contribution: 2018-05-17 10:02
-
-Contribution: 2018-05-17 10:03
-
-Contribution: 2018-05-17 10:04
-
-Contribution: 2018-05-24 10:00
-
-Contribution: 2018-05-24 10:01
-
-Contribution: 2018-05-24 10:02
-
-Contribution: 2018-05-30 10:00
-
-Contribution: 2018-06-05 10:00
-
-Contribution: 2018-06-05 10:01
-
-Contribution: 2018-06-05 10:02
-
-Contribution: 2018-06-06 10:00
-
-Contribution: 2018-06-06 10:01
-
-Contribution: 2018-06-06 10:02
-
-Contribution: 2018-06-08 10:00
-
-Contribution: 2018-06-08 10:01
-
-Contribution: 2018-06-12 10:00
-
-Contribution: 2018-06-12 10:01
-
-Contribution: 2018-06-12 10:02
-
-Contribution: 2018-06-12 10:03
-
-Contribution: 2018-06-12 10:04
-
-Contribution: 2018-06-12 10:05
-
-Contribution: 2018-06-12 10:06
-
-Contribution: 2018-06-12 10:07
-
-Contribution: 2018-06-12 10:08
-
-Contribution: 2018-06-12 10:09
-
-Contribution: 2018-06-15 10:00
-
-Contribution: 2018-06-15 10:01
-
-Contribution: 2018-06-15 10:02
-
-Contribution: 2018-06-15 10:03
-
-Contribution: 2018-06-19 10:00
-
-Contribution: 2018-06-19 10:01
-
-Contribution: 2018-06-19 10:02
-
-Contribution: 2018-06-19 10:03
-
-Contribution: 2018-06-21 10:00
-
-Contribution: 2018-06-21 10:01
-
-Contribution: 2018-07-02 10:00
-
-Contribution: 2018-07-02 10:01
-
-Contribution: 2018-07-02 10:02
-
-Contribution: 2018-07-02 10:03
-
-Contribution: 2018-07-02 10:04
-
-Contribution: 2018-07-09 10:00
-
-Contribution: 2018-07-09 10:01
-
-Contribution: 2018-07-09 10:02
-
-Contribution: 2018-07-09 10:03
-
-Contribution: 2018-07-09 10:04
-
-Contribution: 2018-07-09 10:05
-
+<div>
+    <a href="https://blackfire.io/docs/introduction?utm_source=swiftmailer&utm_medium=github_readme&utm_campaign=logo">
+        <img src="https://static.blackfire.io/assets/intemporals/logo/png/blackfire-io_secondary_horizontal_transparent.png?1" width="255px" alt="Blackfire.io">
+    </a>
+</div>
